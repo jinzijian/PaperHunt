@@ -5,4 +5,3 @@ interest_list = [
     'llm reasoning能力',
     "多模态大模型"
 ]
-recipient_email = "zj2076@nyu.edu"
